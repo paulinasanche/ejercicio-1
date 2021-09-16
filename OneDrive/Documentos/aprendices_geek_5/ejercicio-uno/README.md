@@ -51,5 +51,20 @@ Se pone el número seguido de punto, espacio y luego el contenido del item
 1. Elemento 1
 2. Elemento 2
 3. Elemento 3
+
+Para lista de tareas:
+Se debe poner un guion al inicio para que me reconozca que es una lista, luego espacio y luego corchetes con espacio o X en el interior en caso de que sea una tarea completada
+- [ ] Hacer ejercicios
+
+Para imagenes o videos se vincula de la siguiente manera:
+![Texto que quiero que aparezca si no carga multimedia](URL del recurso)
+
+Para incluir sintaxis de código:
+Se usan 3 backticks al inicio, se menciona el lenguaje en el cual fue escrito el código y posteriormente se incluye el código. Al final se cierra con los 3 backticks.
+``` html
+      <h> Hola mundo </h1>
+```
 ~~~
+
+
 
